@@ -1,1 +1,3 @@
+@Library('shared-library@feature/basic-pipeline') _
+
 buildAndDeploy()
