@@ -1,3 +1,4 @@
 @Library('shared-library@feature/basic-pipeline') _
 
 buildAndDeploy()
+sh "exit 1"
