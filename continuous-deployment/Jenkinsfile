@@ -1,3 +1,4 @@
 @Library('shared-library@feature/basic-pipeline') _
+env.PIPELINE_BRANCH = "feature/basic-pipeline"
 
 buildAndDeploy()
