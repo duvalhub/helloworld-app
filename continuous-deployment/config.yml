@@ -1,4 +1,7 @@
 app:
   name: hello-world
   type: nodejs
-  gros: wtf
+docker:
+  registry: registry.hub.docker.com
+  namespace: huguesmcd
+  repository: helloworld-app
