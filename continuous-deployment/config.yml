@@ -3,5 +3,5 @@ app:
   type: nginx-webserver
 docker:
   registry: docker.io
-  namespace: duvalhubbot
+  namespace: duvalhub
   repository: helloworld-app
