@@ -1,5 +1,5 @@
 @Library('shared-library@feature/nginx-3-companion') _
-env.PIPELINE_BRANCH = feature/nginx-3-companion
+env.PIPELINE_BRANCH = "feature/nginx-3-companion"
 
 
 continuousDeployment()
