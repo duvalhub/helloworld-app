@@ -3,7 +3,7 @@ app:
   type: nginx-webserver
   gros: epais
 build:
-  builder: npm
+  builder: react
   container: nginx
 docker:
   registry: docker.io
