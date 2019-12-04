@@ -2,6 +2,9 @@ app:
   name: hello-world
   type: nginx-webserver
   gros: epais
+build:
+  builder: npm
+  container: nginx
 docker:
   registry: docker.io
   namespace: duvalhub
