@@ -5,7 +5,7 @@ build:
   builder: react
   container: nginx
 deploy:
-  hosts: hello-world.mytotoafrica.dev.philippeduval.ca,hello-world.fuck.dev.philippeduval.ca
+  hosts: hello-world.fuck.dev.philippeduval.ca
 docker:
   registry: docker.io
   namespace: duvalhub
