@@ -1,10 +1,11 @@
 app:
   name: hello-world
-  type: nginx-webserver
-  gros: epais
+  group: toto-africa
 build:
   builder: react
   container: nginx
+deploy:
+  hosts: hello-world.mytotoafrica.dev.philippeduval.ca,hello-world.fuck.dev.philippeduval.ca
 docker:
   registry: docker.io
   namespace: duvalhub
