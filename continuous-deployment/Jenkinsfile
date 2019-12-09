@@ -1,5 +1,5 @@
-@Library('shared-library@feature/nginx-3-companion') _
-env.PIPELINE_BRANCH = "feature/nginx-3-companion"
+@Library('shared-library@feature/build-spring-boot') _
+env.PIPELINE_BRANCH = "feature/build-spring-boot"
 
 
 continuousDeployment()
