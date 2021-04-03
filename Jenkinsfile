@@ -1,2 +1,2 @@
-@Library('shared-library@master') _
+@Library('shared-library@improvement/launch-docker-node-using-ssh') _
 continuousDeployment()
