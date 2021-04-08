@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React (test pour voir)  WAZZUP BABE
+          Je taime my BABE
         </a>
       </header>
     </div>

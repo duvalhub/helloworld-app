@@ -1,5 +1,5 @@
 @Library([
-    'shared-library@improvement/launch-docker-node-using-ssh',
-    'continuous-deployment-library@improvement/launch-docker-node-using-ssh'
+    'shared-library@improvement/host-list-envs-cleanup',
+    'continuous-deployment-library@master'
 ]) _
 continuousDeployment()
